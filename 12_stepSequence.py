@@ -1,0 +1,1 @@
+print("Hello, World! Once upon a time, there was a \"programmer\" who loved to code.")
