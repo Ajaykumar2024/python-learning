@@ -1,5 +1,6 @@
-# polymorphism can be achieved by
-# -methodoverriding
+# polymorphism(same name having different work) can be achieved by
+# -1.methodoverriding
+# 2. Duck typing
 
 # here method of child class  overrides the methods of parent class 
 # and method of child class executed this is called method overriding
