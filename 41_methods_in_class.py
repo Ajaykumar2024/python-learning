@@ -16,6 +16,6 @@ class Animal:
         print("This is static method")
 Animal.hello()
 obj=Animal(23)
-# obj.show()
+obj.show()
 # obj.hello()
 Animal.static_method()
